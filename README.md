@@ -7,6 +7,9 @@
 
 ### 💼 Experience & Fellowships
 
+- **eCornell Machine Learning** – *Break Through Tech AI Fellow (May 2025 – Present)*
+Completed the Cornell University Machine Learning Foundations course through Break Through Tech.
+
 - 🧠 **Software Engineer Intern @ Elerus AI** *(June 2025 – Present)*  
   Contributing to an AI-powered coding platform in a startup environment. Gaining hands-on experience with modern AI/ML technologies and agile development practices.
 
