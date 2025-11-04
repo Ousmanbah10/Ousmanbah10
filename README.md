@@ -1,10 +1,11 @@
-## 👋 Hi, I’m Ousman Bah — a Computer Science student at Florida International University (FIU).  I’m passionate about AI, data science, and building tools that empower underrepresented communities.
+## 👋 Hi, I’m Ousman Bah.
 💼 **LinkedIn:** [linkedin.com/in/ousmanbah10](https://www.linkedin.com/in/ousmanbah10)
-📫 **Reach me at:** ousmanbah10@gmail.com
+
 
 🎓 **Computer Science Student @ Florida International University (FIU)**  
 💡 Passionate about building AI-driven solutions that empower underrepresented communities and make tech more inclusive.
-
+📫 **Reach me at:** obah002@fiu.edu
+📌 **Portfolio at:** [obah002@fiu.edu](https://ousmanbah10.github.io/Portfolio/)
 ---
 
 ### 💼 Experience & Fellowships
