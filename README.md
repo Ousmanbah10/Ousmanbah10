@@ -3,10 +3,7 @@
 🎓 Computer Science Student @ Florida International University (FIU)  
 💡 Passionate about building AI-driven solutions that empower underrepresented communities and make tech more inclusive.  
 
-💼 LinkedIn: [linkedin.com/in/ousmanbah10](https://www.linkedin.com/in/ousmanbah10)  
-📫 Email: [obah002@fiu.edu](mailto:obah002@fiu.edu)  
-📌 Portfolio: [ousmanbah10.github.io/Portfolio](https://ousmanbah10.github.io/Portfolio/)
-
+___
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,15 +28,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-### 💼 Experience & Fellowships
-
-#### 🤖 eCornell Machine Learning – *Break Through Tech AI Fellow (May 2025 – Present)*
-Completed the **Cornell University Machine Learning Foundations** course through **Break Through Tech AI**, gaining hands-on experience with:
-- 🧩 Machine Learning lifecycle & data management  
-- 📊 Model training (KNN, Decision Trees, Linear & Ensemble Models)  
-- 🧠 Deep Learning, NLP, and Responsible AI  
 
 ---
 
@@ -120,6 +108,7 @@ Mentored peers in algorithms and problem-solving while leading competitive progr
 🌍 **Portfolio:** [ousmanbah10.github.io/Portfolio](https://ousmanbah10.github.io/Portfolio)  
 💼 **LinkedIn:** [linkedin.com/in/ousmanbah10](https://www.linkedin.com/in/ousmanbah10/)  
 🐙 **GitHub:** [github.com/Ousmanbah10](https://github.com/Ousmanbah10)  
+📫 Email: [obah002@fiu.edu](mailto:obah002@fiu.edu)  
 
 ---
 
