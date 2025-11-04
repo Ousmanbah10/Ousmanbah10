@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Ousman Bah 
 
 🎓 Computer Science Student @ Florida International University (FIU)  
-💡 Passionate about building AI-driven solutions that empower underrepresented communities and make tech more inclusive.  
+💡 I'm a junior Computer Science student at Florida International University, passionate about building tools that drive real-world impact especially in underrepresented communities. I've gained hands-on experience through the Google Tech Exchange and the Break Through Tech AI Fellowship at Cornell Tech, where I explored generative AI, scalable systems, and real-world machine learning applications. I've also worked on AI projects and full-stack applications across mobile, web, and cloud environments. I enjoy competitive programming and am a member of the FIU Competitive Programming Team. I've competed in two ICPC USA Regional competitions and love solving algorithmic challenges and mentoring others in data structures and problem solving. I'm looking forward to connecting with like-minded CS peers, industry professionals, and potential mentors!  
 
 ___
 
