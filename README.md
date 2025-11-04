@@ -35,20 +35,26 @@
 ---
 ### 💼 Experience & Fellowships
 
-- **🤖 eCornell Machine Learning** – *Break Through Tech AI Fellow (May 2025 – Present)*
-Completed the Cornell University Machine Learning Foundations course through Break Through Tech.
+#### 🤖 eCornell Machine Learning – *Break Through Tech AI Fellow (May 2025 – Present)*
+Completed the **Cornell University Machine Learning Foundations** course through **Break Through Tech AI**, gaining hands-on experience with:
+- 🧩 Machine Learning lifecycle & data management  
+- 📊 Model training (KNN, Decision Trees, Linear & Ensemble Models)  
+- 🧠 Deep Learning, NLP, and Responsible AI  
+
+---
 
 ## 💼 Professional Experience  
-
 From AI fellowships to real-world impact.  
 
 ---
+
 ### 🎓 [Break Through Tech AI Fellow](https://github.com/Ousmanbah10/BreakThroughTech-AI)
 *May 2025 – Present*  
 **Organization:** Cornell Tech & Break Through Tech Miami  
 Selected from 1,000+ applicants for a competitive summer-long fellowship.  
-Completed 100+ hours of hands-on training in **supervised learning**, **responsible AI**, and **ML pipelines**.  
+Completed 100+ hours of hands-on training in supervised learning, responsible AI, and ML pipelines.  
 🧠 *Technologies:* Python, scikit-learn, pandas  
+
 ---
 
 ### 🧠 [Accenture – AI Studio Fake News Classification](https://github.com/Ousmanbah10/Accenture-AI-Studio)
@@ -62,7 +68,7 @@ Developed a **Fake News Classification system** using NLP and deep learning for 
 ### ☁️ [Google Tech Exchange Program](https://research.google/pubs/google-tech-exchange-an-industry-academic-partnership-that-prepares-black-and-latinx-undergraduates-for-high-tech-careers/)
 *Jan 2025 – May 2025*  
 **Role:** Tech Fellow | **Organization:** Google  
-Semester-long program developing skills in **software engineering** and **AI**, including generative AI, algorithms, system design, and Google Cloud deployments.  
+Semester-long program developing skills in software engineering and AI, including generative AI, algorithms, system design, and Google Cloud deployments.  
 🧠 *Focus:* AI fundamentals, cloud systems, and scalable deployment practices  
 
 ---
@@ -88,12 +94,14 @@ Improved navigation efficiency by 35% and reduced traffic congestion by 27%.
 *Sept 2024 & Oct 2024*  
 **Organization:** FIU | ICPC Southeast Regionals  
 Represented FIU twice in ICPC competitions as team lead.  
-Mentored peers in **algorithms** and **problem-solving** while leading competitive programming sessions.  
+Mentored peers in algorithms and problem-solving while leading competitive programming sessions.  
 💻 *Languages:* C++, Python, Java  
 
-➡️ *For more details, visit my full experience section:* [ousmanbah10.github.io/Portfolio](https://ousmanbah10.github.io/Portfolio)
 ---
 
+➡️ *For more details, visit my full experience section:* [ousmanbah10.github.io/Portfolio](https://ousmanbah10.github.io/Portfolio)
+
+---
 ### 🧠 Currently Learning
 - Advanced **Machine Learning** (PyTorch, Transformers, LangChain)
 - **Cloud Engineering** with Supabase, GCP, and Docker
