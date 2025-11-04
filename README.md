@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ousman Bah
+## 👋 Hi, I’m Ousman Bah 
 
 🎓 Computer Science Student @ Florida International University (FIU)  
 💡 Passionate about building AI-driven solutions that empower underrepresented communities and make tech more inclusive.  
@@ -38,24 +38,60 @@
 - **🤖 eCornell Machine Learning** – *Break Through Tech AI Fellow (May 2025 – Present)*
 Completed the Cornell University Machine Learning Foundations course through Break Through Tech.
 
-- 🧠 **Software Engineer Intern @ Elerus AI** *(June 2025 – Present)*  
-  Contributing to an AI-powered coding platform in a startup environment. Gaining hands-on experience with modern AI/ML technologies and agile development practices.
+## 💼 Professional Experience  
 
-- 📰 **AI Studio Fellow @ Accenture** *(Aug 2025 – Present)*  
-  Collaborated on a **Fake News Classification** system using NLP, text data, and deep learning through Break Through Tech’s Accenture AI Studio Fellowship.
+From AI fellowships to real-world impact.  
 
-- ☁️ **Google Tech Exchange Program (Tech Fellow)** *(Jan 2025 – May 2025)*  
-  Completed semester-long training in **software engineering and AI** led by Google engineers. Focused on **generative AI**, **system design**, and **Google Cloud** deployment.
+---
+### 🎓 [Break Through Tech AI Fellow](https://github.com/Ousmanbah10/BreakThroughTech-AI)
+*May 2025 – Present*  
+**Organization:** Cornell Tech & Break Through Tech Miami  
+Selected from 1,000+ applicants for a competitive summer-long fellowship.  
+Completed 100+ hours of hands-on training in **supervised learning**, **responsible AI**, and **ML pipelines**.  
+🧠 *Technologies:* Python, scikit-learn, pandas  
+---
 
-- 🧩 **Software Engineering Sprintern @ FIU PantherSoft** *(May 2025 – June 2025)*  
-  Developed a **smart parking recommendation app** using Flutter and GeoLocator for FIU’s 50,000+ students, improving navigation and space utilization efficiency.
+### 🧠 [Accenture – AI Studio Fake News Classification](https://github.com/Ousmanbah10/Accenture-AI-Studio)
+*Aug 2025 – Present*  
+**Role:** AI Studio Fellow | **Organization:** Accenture (Break Through Tech AI)  
+Developed a **Fake News Classification system** using NLP and deep learning for Trust & Safety and Content Moderation.  
+🧩 *Technologies:* Python, scikit-learn, pandas, TensorFlow  
 
-- 🤖 **Break Through Tech AI Fellow (Cornell Tech)** *(May 2025 – Present)*  
-  Selected from 1,000+ applicants for a competitive summer AI fellowship. Completed 100+ hours of hands-on AI training in **supervised learning**, **responsible AI**, and **ML pipelines**.
+---
 
-- 🧮 **FIU Competitive Programming Team (ICPC & Hackathons)** *(Sept 2024 & Oct 2024)*  
-  Represented FIU in ICPC Southeast Regional competitions and hackathons. Mentor peers in algorithms, data structures, and Python problem-solving.
+### ☁️ [Google Tech Exchange Program](https://research.google/pubs/google-tech-exchange-an-industry-academic-partnership-that-prepares-black-and-latinx-undergraduates-for-high-tech-careers/)
+*Jan 2025 – May 2025*  
+**Role:** Tech Fellow | **Organization:** Google  
+Semester-long program developing skills in **software engineering** and **AI**, including generative AI, algorithms, system design, and Google Cloud deployments.  
+🧠 *Focus:* AI fundamentals, cloud systems, and scalable deployment practices  
 
+---
+
+### 🤖 [Software Engineer Intern – Elerus AI](https://github.com/Ousmanbah10/Elerus-AI)
+*June 2025 – Present*  
+**Role:** Software Engineer Intern | **Organization:** Elerus AI (Startup)  
+Contributing to an **AI-powered coding platform**. Focused on backend systems, feature deployment, and AI integration in a fast-paced startup environment.  
+🧠 *Technologies:* FastAPI, Python, React, Docker  
+
+---
+
+### 🧩 [Software Engineering Sprintern – FIU PantherSoft](https://github.com/Ousmanbah10/Smart-Parking-FIU)
+*May 2025 – June 2025*  
+**Role:** Sprintern | **Organization:** FIU PantherSoft  
+Developed a **Smart Parking Recommendation App** using Flutter and GeoLocator for FIU’s 50,000+ students.  
+Improved navigation efficiency by 35% and reduced traffic congestion by 27%.  
+🚗 *Technologies:* Flutter, Dart, Google Maps API  
+
+---
+
+### 🧮 [FIU Competitive Programming Team (ICPC & ShellHacks Hackathon)](https://github.com/Ousmanbah10/Competitive-Programming)
+*Sept 2024 & Oct 2024*  
+**Organization:** FIU | ICPC Southeast Regionals  
+Represented FIU twice in ICPC competitions as team lead.  
+Mentored peers in **algorithms** and **problem-solving** while leading competitive programming sessions.  
+💻 *Languages:* C++, Python, Java  
+
+➡️ *For more details, visit my full experience section:* [ousmanbah10.github.io/Portfolio](https://ousmanbah10.github.io/Portfolio)
 ---
 
 ### 🧠 Currently Learning
