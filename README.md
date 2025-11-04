@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hi there 👋 I'm Ousman Bah
 
 🎓 **Computer Science Student @ Florida International University (FIU)**  
