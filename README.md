@@ -65,7 +65,7 @@ Completed the Cornell University Machine Learning Foundations course through Bre
 ---
 
 ### 📊 GitHub Stats
-![Ousman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ousmanbah10&show_icons=true&theme=tokyonight)  
+![Ousman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ousmanbah10&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ousmanbah10&layout=compact&theme=tokyonight)
 
 ---
