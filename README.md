@@ -1,10 +1,11 @@
-## 👋 Hi, I’m Ousman Bah  
-### Junior Computer Science Student at FIU  
-### Focused on AI, software engineering, and building tools for real-world impact
+## Ousman Bah | Aspiring Software Engineer & AI Fellow
 
-I’m a Computer Science student at Florida International University (FIU) who enjoys building meaningful projects and learning advanced AI concepts. I’ve gained hands-on experience through the Google Tech Exchange Program and the Break Through Tech AI Fellowship at Cornell Tech. I also work on full-stack applications, AI tools, and mobile apps, and I enjoy mentoring others through competitive programming.
+Aspiring Software Engineer with hands-on experience in building AI systems, full-stack applications, and cloud solutions. I focus on **clean code, scalable systems, and continuous learning**.
 
-I’m always looking to grow, collaborate, and connect with peers and professionals in the tech community.
+- 🎓 **B.S. in Computer Science** at Florida International University (FIU)  
+- 💻 **Interests:** AI/ML, Web Development, Cloud Computing, System Design  
+- 🌱 **Currently learning:** PyTorch, Transformers, LangChain, Docker  
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ousmanbah10/) • obah002@fiu.edu
 
 ---
 
@@ -110,9 +111,10 @@ ICPC competitor and mentor for data structures and algorithms.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
-![Ousman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ousmanbah10&show_icons=true&count_private=true&theme=tokyonight)
+- Contributions to 25+ repositories across academic, open-source, and personal projects  
+- Experience with version control, code reviews, and collaborative development  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ousmanbah10&layout=compact&theme=tokyonight)
 
 ---
